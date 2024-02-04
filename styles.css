@@ -165,6 +165,7 @@ h1 {
     }
     .storage-box {
         height: 175px;
+        margin: 20px 0 0;
     }
     .reserve {
         position: absolute;
